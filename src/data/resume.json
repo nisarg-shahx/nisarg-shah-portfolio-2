@@ -1,0 +1,168 @@
+{
+  "basics": {
+    "name": "Nisarg Shah",
+    "label": "Manager, Business Intelligence at Amazon | Building AI-Powered Solutions | AI Designer & Architect",
+    "email": "nisargshah1710@gmail.com",
+    "location": "Seattle, Washington, United States",
+    "linkedin": "https://www.linkedin.com/in/nisarg1710",
+    "summary": "I hold a Master’s degree in Information Technology and Management from The University of Texas at Dallas, which equipped me with a strong foundation in both technical expertise and strategic leadership. As a Business Intelligence Manager and AI Tech Designer, I thrive at the intersection of data, design, and innovation — leading a talented team of Business Intelligence Engineers to build AI-driven architectures and data products that power operational excellence. I’m passionate about leveraging AI, machine learning, and modern cloud technologies (AWS) to design scalable systems that transform how organizations make decisions. My approach blends hands-on technical curiosity with a people-first leadership style — empowering teams to innovate, automate, and deliver actionable insights that move the business forward. Throughout my career, I’ve successfully guided cross-functional teams, aligning analytics, engineering, and business stakeholders to deliver intelligent solutions that enhance performance and efficiency. My focus is always on creating AI systems that are as impactful as they are intuitive — ensuring technology drives measurable business outcomes. Driven by curiosity and purpose, I continue to explore emerging trends in AI architecture, data analytics, and intelligent automation, with a vision to shape the future of data-driven organizations.",
+    "quote": {
+      "text": "Do not follow where the path may lead. Go instead where there is no path and leave a trail.",
+      "author": "Ralph Waldo Emerson"
+    }
+  },
+  "experience": [
+    {
+      "company": "Amazon",
+      "location": "Seattle, Washington, United States",
+      "duration": "5 years 11 months",
+      "roles": [
+        {
+          "title": "Business Intelligence Manager",
+          "dates": "September 2023 - Present",
+          "bullets": [
+            "I have designed an AI architecture for the team that has built the foundation of AI driven products built at scale unlocking $40M+ annual business impact.",
+            "Lead a high-performing team of six Business Intelligence Engineers, fostering a culture of innovation and technical excellence to design and develop advanced analytics that drive operational visibility and decision-making.",
+            "Build the Architecture for the Amazon Transportation Services team's AI infrastructure, designing a scalable, robust, and secure architecture leveraging AWS AI/ML tools to enhance efficiency, automation, and performance across operations",
+            "Designed a suite of AI driven products that cater to every day needs from Computer Vision and Auto Summarization to Agentic workflows and Generative BI.",
+            "Partner with Data Engineers and Data Scientists to develop intelligent data pipelines and AI-powered analytics solutions, improving accuracy, scalability, and speed of business insights delivery.",
+            "Led global initiatives by partnering with various technology teams to implement machine learning solutions, resulting in approximately a 15% improvement in defect attribution accuracy while conserving several hundred hours of manual analysis"
+          ],
+          "metrics": ["$40M+ annual business impact", "15% improvement in defect attribution accuracy"]
+        },
+        {
+          "title": "Sr. Business Intelligence Engineer",
+          "dates": "July 2022 - August 2023",
+          "bullets": [
+            "Collaborate with cross-functional technology teams to extract, transform, and load data from diverse sources using Redshift and Amazon Data Lake, employing programming and scripting for data processing and modeling",
+            "Lead tiger team initiatives, representing the BI team and providing insights on data-related challenges",
+            "Develop and strategize high-level reports for leadership to assess the outcomes of new initiatives and enhance existing processes across North America and Europe",
+            "Established approximately 80 key performance metrics to evaluate the success of a new program and monitor target objectives",
+            "Launched over 60 custom dashboards within a year, tailored to specific client needs to facilitate data-driven decision-making and address operational gaps within Amazon Operations"
+          ],
+          "metrics": ["80 key performance metrics", "60+ custom dashboards"]
+        },
+        {
+          "title": "Business Intelligence Engineer II",
+          "dates": "May 2020 - June 2022",
+          "bullets": [
+            "Own, design, develop, document, and manage scalable solutions for new and ongoing metrics, reports, analyses, and dashboards to address business requirements effectively",
+            "Conduct in-depth analyses to comprehend the frameworks employed for data storage and the tools and solutions utilized for data accessibility",
+            "Leverage data mining, data modeling, data warehousing, and other analytical methodologies to develop and maintain customer segmentation and predictive models, enabling data-driven decision-making on large-scale (multi-terabyte) datasets",
+            "Implement an automated data pipeline utilizing AWS S3, AWS Lambda, and SFTP servers to publish daily metrics for bridging and callouts to an external tool licensed by Amazon, comprising over 10 metrics, thereby eliminating manual intervention and saving approximately 10 hours of effort weekly"
+          ],
+          "metrics": ["10 hours weekly saved", "Multi-terabyte datasets"]
+        }
+      ]
+    },
+    {
+      "company": "Oticon USA",
+      "location": "Somerset, New Jersey",
+      "duration": "2 years 3 months",
+      "roles": [
+        {
+          "title": "Sr. Business Intelligence Analyst",
+          "dates": "March 2020 - May 2020",
+          "bullets": [
+            "Defining, recommending and delivering Business Intelligence strategies and roadmaps to improve the business model",
+            "Work with stakeholders in identifying key reporting requirements and use technical skills like SQL , Power BI and SQL Server suite to support the business with extensive reporting",
+            "Analyze trends in the business to help identify gaps and ensure optimal business processes",
+            "Maintain and improve the ETL solution for the data warehouse to keep the data accurate , consistent and ensure highest data quality",
+            "Maintain an extensive library of automated reports to ensure timely delivery of reports to the respective group of audience",
+            "Handle the work flow co-ordination within the team to facilitate optimized working environment"
+          ]
+        },
+        {
+          "title": "Business Intelligence Analyst",
+          "dates": "January 2019 - March 2020",
+          "bullets": [
+            "Build and maintain data pipelines to keep the business systems for finance, operations, logistics, marketing automation and customer experience in sync with a variety of sources and the data warehouse",
+            "Use business analysis techniques to gather business requirements and design, develop, and implement effective solutions to meet role-based needs for business data",
+            "Design and develop highly visual, interactive, and layered Business Intelligence solutions using Microsoft Power BI",
+            "Communicate high level summary results to business owners and leadership",
+            "Improve and streamline processes regarding data flow and data quality to ensure data accuracy, viability and value"
+          ]
+        },
+        {
+          "title": "BI Reports Developer",
+          "dates": "March 2018 - December 2018",
+          "bullets": [
+            "Acted as a liaison between the business users and the BI report development team and was responsible for the delivery of front-end BI solutions to the business",
+            "Analyzed data and provided conclusions and/or suggested actions while managing key (internal) customer relationships",
+            "Owned and maintained library of dashboards and reports for my team",
+            "Fulfilled ad-hoc reporting/data requests from management",
+            "Responsible for carrying out the migration of a key business solution from planning to implementation which resulted in a 75% reduction in Flash report creation through AI driven bridges saving 400+ hours annually per program leader."
+          ],
+          "metrics": ["75% reduction in Flash report creation"]
+        }
+      ]
+    },
+    {
+      "company": "Naveen Jindal School of Management, UT Dallas",
+      "location": "Dallas/Fort Worth Area",
+      "duration": "6 months",
+      "roles": [
+        {
+          "title": "Graduate Teaching Assistant",
+          "dates": "December 2016 - May 2017",
+          "bullets": [
+            "Assist professor in various tasks including but not limited to preparing assignments, grading assignments, helping students with their dilemma and proctoring exams if required."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "TechSperia",
+      "location": "Mumbai Area, India",
+      "duration": "1 year 7 months",
+      "roles": [
+        {
+          "title": "Jr. Solution Architect",
+          "dates": "December 2013 - June 2015",
+          "bullets": [
+            "TechSperia is a digital consultancy/agency, which provides all types of IT Solutions. Websites, Mobile Applications, Graphic Designing, Technical Advisory and Web Applications. It also experts in Web development, explored all the markets in India including Gold and event industry. Also, served clients in foreign countries (Australia and Germany).",
+            "Review, interpret and respond to detailed Business Requirement Specifications(BRS) to ensure alignment between customer expectations and current or future IT capabilities",
+            "Provide input to the strategic direction of technology investments to assist in the development of the enterprise architecture and maximize the return on technology investments",
+            "Within the agreed enterprise architecture, define and design technology solutions to assist the business in meeting their business objectives",
+            "Develop, test and implement technology solutions and report on delivery commitments to ensure solutions are implemented as expected and to agreed time frames"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "top": ["Artificial Intelligence (AI)", "Python (Programming Language)", "Business Data Management"],
+    "languages": [
+      { "name": "Hindi", "level": "Full Professional" },
+      { "name": "Gujarati", "level": "Full Professional" },
+      { "name": "French", "level": "Limited Working" },
+      { "name": "English", "level": "Full Professional" }
+    ]
+  },
+  "certifications": [
+    "Google AdWords Certification",
+    "SAS-UT Dallas Data Mining and BI",
+    "Google Analytics IQ Certification"
+  ],
+  "honors": [
+    "Dean's Excellence Scholarship",
+    "Scholar of High Distinction"
+  ],
+  "education": [
+    {
+      "institution": "University of Texas at Dallas - Naveen Jindal School of Management",
+      "degree": "Master’s Degree, Information Technology and Management",
+      "dates": "2015 - 2017"
+    },
+    {
+      "institution": "University of Texas at Dallas",
+      "degree": "Bachelor's degree, Information Technology",
+      "dates": "2012 - 2015"
+    },
+    {
+      "institution": "Thakur Polytechnic",
+      "degree": "Diploma, Computer Engineering",
+      "dates": "2009 - 2012"
+    }
+  ]
+}
