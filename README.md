@@ -1,20 +1,69 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Nisarg Shah - Alternative Portfolio 🚀
 
-# Run and deploy your AI Studio app
+A modern, interactive portfolio website built with React and Tailwind CSS, showcasing my professional work and skills.
 
-This contains everything you need to run your app locally.
+## Tech Stack
 
-View your app in AI Studio: https://ai.studio/apps/6cbde98b-0451-4379-9803-f0211d71c449
+- **Frontend**: React 19, TypeScript
+- **Styling**: Tailwind CSS 4
+- **Build Tool**: Vite 6
+- **AI Integration**: Google Gemini API
+- **Animation**: Motion (Framer Motion)
+- **Deployment**: Vercel
 
-## Run Locally
+## Features
 
-**Prerequisites:**  Node.js
+- Modern, responsive design
+- Interactive UI components
+- AI-powered features using Google Gemini
+- Smooth animations and transitions
+- Fast performance with Vite
 
+## Local Development
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Prerequisites
+- Node.js (v18 or higher)
+- npm or yarn
+
+### Setup
+
+1. Clone the repository
+```bash
+git clone https://github.com/nisarg-shahx/nisarg-shah-portfolio-2.git
+cd nisarg-shah-portfolio-2
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Set up environment variables
+   - Copy `.env.example` to `.env.local`
+   - Add your Gemini API key:
+   ```
+   GEMINI_API_KEY=your_api_key_here
+   ```
+
+4. Run the development server
+```bash
+npm run dev
+```
+
+5. Build for production
+```bash
+npm run build
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+**Nisarg Shah**
+- GitHub: [@nisarg-shahx](https://github.com/nisarg-shahx)
+
+---
+
+Built with ❤️ using React and Google AI Studio
